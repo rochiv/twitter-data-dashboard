@@ -15,3 +15,5 @@ Any data metric that can be observed over time is very beneficial to decision ma
 - pandas 
 - dash (plotly)
 - django 
+
+###### Coming Soon: Setup instructions and requirements
