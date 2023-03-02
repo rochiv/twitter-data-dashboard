@@ -17,3 +17,8 @@ Any data metric that can be observed over time is very beneficial to decision ma
 - django 
 
 ###### Coming Soon: Setup instructions and requirements
+
+
+### Setup Instructions
+
+### Requirements
